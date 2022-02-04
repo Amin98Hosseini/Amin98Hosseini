@@ -1,8 +1,12 @@
 # 💫About Me :
 👨‍💻 Amin Hosseini 
+
 👨‍💼Msc Digital Electronic Eng
+
 🟢 Open Source Developer
+
 💻 Software & Hardware  Development
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elecomp_tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammad-amin-khadem-al-hosseini-806a75151) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCbASsLHmmKg_32L6RTsmUrA) 
